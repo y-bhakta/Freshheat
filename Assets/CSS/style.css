@@ -309,6 +309,12 @@ header .dropdown ol li:hover .sub-menu{
 }
 /* banner end  */
 /* food itmes start  */
+.w-100{
+    max-width: 100%;
+}
+.pfi{
+    text-align: center;
+}
 .food-item{
     padding: 100px 0px;
 }

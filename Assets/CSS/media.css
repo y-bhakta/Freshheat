@@ -65,6 +65,15 @@
     .cont-fluide{
         padding: 0px 12px;
     }
+    .timer-card{
+        margin-left: 0;
+    }
+    .blog-content{
+        padding: 5px;
+    }
+    .footer-top{
+        padding: 0;
+    }
 }
 @media(min-width:576px){
     .col-sm-1{
